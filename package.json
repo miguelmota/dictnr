@@ -1,11 +1,9 @@
 {
   "name": "dictnr",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Lightweight dictionary",
   "main": "dict.js",
   "dependencies": {
-    "dictjs": "~0.1.0",
-    "dict": "~1.4.0"
   },
   "devDependencies": {},
   "scripts": {

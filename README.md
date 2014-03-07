@@ -27,7 +27,7 @@ d.get('foo'); // 'bar'
 
 d.set('baz', 'qux');
 
-d.get('baz'); // 'quz'
+d.get('baz'); // 'qux'
 
 d.size(); // 2
 
