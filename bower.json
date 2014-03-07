@@ -1,0 +1,22 @@
+{
+  "name": "dictnr",
+  "main": "dict.js",
+  "version": "0.0.0",
+  "description": "Lightweight dictionary",
+  "keywords": [
+    "dictionary",
+    "map"
+  ],
+  "authors": [
+    "Miguel Mota"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/miguelmota/dictnr",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
