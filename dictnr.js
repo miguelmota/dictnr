@@ -1,4 +1,4 @@
-(function(global) {
+;!function() {
 
   'use strict';
 
@@ -62,7 +62,7 @@
       return dict;
     });
   } else {
-    global.dictnr = dict;
+    this.dictnr = dict;
   }
 
-})(this);
+}.call(this);
