@@ -1,8 +1,8 @@
-var dict = require('../dict');
+var dictnr = require('../dictnr');
 
-describe('Dict', function() {
+describe('Dictnr', function() {
   it('should create a new dict', function(done) {
-    var d = dict({foo: 'bar'});
+    var d = dictnr({foo: 'bar'});
     expect(d.has('foo')).toBeTruthy();
     expect(d.get('foo')).toEqual('bar');
     d.set('baz', 'qux');

@@ -1,6 +1,6 @@
 {
   "name": "dictnr",
-  "main": "dict.js",
+  "main": "dictnr.js",
   "version": "0.0.1",
   "description": "Lightweight dictionary",
   "keywords": [

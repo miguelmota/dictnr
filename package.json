@@ -2,10 +2,13 @@
   "name": "dictnr",
   "version": "0.0.1",
   "description": "Lightweight dictionary",
-  "main": "dict.js",
-  "dependencies": {
+  "main": "dictnr.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "~3.5.5",
+    "gulp-uglify": "~0.2.1",
+    "gulp-jasmine": "~0.2.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "jasmine-node test/"
   },

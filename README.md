@@ -40,6 +40,20 @@ d.clear();
 d.size(); // 0
 ```
 
+# Test
+
+Using [Jasmine](http://pivotal.github.io/jasmine/) for tests
+
+```bash
+gulp test
+```
+
+# Build
+
+```bash
+gulp build
+```
+
 # License
 
 Released under the MIT License.
