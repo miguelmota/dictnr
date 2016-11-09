@@ -42,7 +42,7 @@ d.size(); // 0
 
 # Test
 
-Using [Jasmine](http://pivotal.github.io/jasmine/) for tests
+Using [Jasmine](https://jasmine.github.io/) for tests
 
 ```bash
 gulp test
